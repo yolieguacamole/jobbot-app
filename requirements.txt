@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pdfplumber
+python-docx
+requests
+python-dotenv
+
