@@ -17,6 +17,7 @@ dist/
 env/
 venv/
 venv310/
+venv310_temp/
 
 # IDEs/editors
 .vscode/
